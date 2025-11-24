@@ -1,0 +1,5 @@
+{
+  "name": "Naval Defense 1942",
+  "description": "A 2D interactive tower defense game where you command an aircraft carrier against waves of enemy ships and planes. Upgrade your ship, unlock skills, and defeat the boss.",
+  "requestFramePermissions": []
+}
